@@ -4,9 +4,7 @@ var user = {
     hobby: "golf",
     isMarried: true,
     letters: ["A","B","C"],
-    shout: function (){
-        return console.log("AHHHHH");
-    }
+    shout: function () { return console.log("AHHHHH"); }
 };
 
 console.log(user);
