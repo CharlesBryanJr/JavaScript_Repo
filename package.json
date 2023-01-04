@@ -1,0 +1,19 @@
+{
+  "name": "javascript_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AdvancedArrays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChalresBryan/JavaScript_Repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChalresBryan/JavaScript_Repo/issues"
+  },
+  "homepage": "https://github.com/ChalresBryan/JavaScript_Repo#readme"
+}
